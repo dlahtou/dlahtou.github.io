@@ -10,7 +10,9 @@ To do this, we collected data from the New York Metropolitan Transportation Auth
 # Project Design
 Our initial approach was to attempt to contact as many people as possible. We considered this to be the safest way to guarantee a large quantity of respondents, even if response rates to email outreach were low. It was fairly straightforward to calculate the total traffic through a station from the MTA dataset -- in most cases, it was as simple as subtracting the initial count of entries or exits on a given day from the final count of entries or exits on that day.
 
-![Top Ten Stations](https://i.imgur.com/JI4iYLy.png){:class="img-responsive"}
+[Top Ten Stations](https://i.imgur.com/JI4iYLy.png)
+
+Here's an example of what that looks like for our dataset, which contains all turnstile data for the most recent four months on record (Feb 25-June 30, 2018). Even if you aren't super familiar with New York, you probably recognize some of the names
 
 # Tools
 
